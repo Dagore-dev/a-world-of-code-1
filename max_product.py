@@ -5,7 +5,6 @@ def max_product(*numbers: int) -> int:
 
     >>> max_product(1, 5, -2, -4)
     8
-
     >>> max_product(2)
     Traceback (most recent call last):
     ...
